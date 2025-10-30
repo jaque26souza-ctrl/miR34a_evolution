@@ -1,0 +1,45 @@
+#mega
+!Title mir34a;
+!Format DataType=DNA indel=- CodeTable=Standard;
+
+!Domain=Data property=Coding CodonStart=1;
+#miR34a_Homo_sapiens
+ggccagctgtgagtgtttctttggcagtgtcttagctggttgttgtgagcaatagtaagg
+aagcaatcagcaagtatactgccctagaagtgctgcacgttgtggg
+
+#miR34a_Pan_paniscus
+ggccagctgtgagtgtttctttggcagtgtcttagctggttgttgtgagcaatagtaagg
+aagcaatcagcaagtatactgccctagaagtgctgcacgttgtggg
+
+#miR34a_Pan_troglodytes
+ggccagctgtgagtgtttctttggcagtgtcttagctggttgttgtgagcaatagtaagg
+aagcaatcagcaagtatactgccctagaagtgctgcacgttgtggg
+
+#miR34a_Gorilla_gorilla_gorilla
+ggccagctgtgagtgtttctttggcagtgtcttagctggttgttgtgagcaatagtaagg
+aagcaatcagcaagtatactgccctagaagtgctgcacgttgtggg
+
+#miR34a_Macaca_mulatta
+ggccagctgtgagtgtttctttggcagtgtcttagctggttgttgtgagcaatagtaagg
+aagcaatcagcaagtatactgccctagaagtgctacacattgtggg
+
+#miR34a_Monodelphis_domestica
+ggccagctgtgagtgtttctttggcagtgtcttagctggttgttgtgagtaatagtaagg
+aagcaatcagcaagtatactgccctagaagtgctgcacgttgttag
+
+#miR34a_Mus_musculus
+--ccagctgtgagtaattctttggcagtgtcttagctggttgttgtgagtattagtaagg
+aagcaatcagcaagtatactgccctagaagtgctgcacattgt---
+
+#miR34a_Rattus_norvegicus
+--ccggctgtgagtaattctttggcagtgtcttagctggttgttgtgagtattagtaagg
+aagcaatcagcaagtatactgccctagaagtgctgcacgttgt---
+
+#miR34a_Bos_taurus
+ggccagctgtgagtgtttctttggcagtgtcttagctggttgttgtgagtaataagcagg
+aagcaatcagcaagtatactgccctagaagtgctgcacgttgtggg
+
+#miR34a_Equus_caballus
+---------------------tggcagtgtcttagctggttgttgtgagtaataggcggg
+aagcaatcagcaagtatactgcc-----------------------
+
