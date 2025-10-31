@@ -49,4 +49,12 @@ Investigar a **evolução e conservação** da sequência do microRNA **miR-34a*
 | [TrimAl](https://usegalaxy.eu/) | Remoção de regiões mal alinhadas |
 | [MEGA12](https://www.megasoftware.net/) | Modelos evolutivos e árvores filogenéticas |
 
+## Resultados 
+
+### Árvore Filogenética
+
+![Árvore Filogenética do miR-34a](results/mir-34a-tree.jpeg)
+
+*Figura 1: Árvore filogenética do miR-34a em mamíferos*
+
 ---
