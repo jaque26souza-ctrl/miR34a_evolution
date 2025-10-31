@@ -57,4 +57,8 @@ Investigar a **evolução e conservação** da sequência do microRNA **miR-34a*
 
 *Figura 1: Árvore filogenética do miR-34a em mamíferos*
 
+## 📄 Documentação
+
+- [Relatório Completo](docs/Trabalho-evolução-genômica-Jaqueline-Souza.pdf) - Análise detalhada da evolução do miR-34a
+
 ---
